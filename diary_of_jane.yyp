@@ -44,6 +44,7 @@
     {"id":{"name":"intro2_background","path":"sprites/intro2_background/intro2_background.yy",},},
     {"id":{"name":"s_dialog_box","path":"sprites/s_dialog_box/s_dialog_box.yy",},},
     {"id":{"name":"s_idle_emily","path":"sprites/s_idle_emily/s_idle_emily.yy",},},
+    {"id":{"name":"font_game","path":"fonts/font_game/font_game.yy",},},
     {"id":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
     {"id":{"name":"oIntroText","path":"objects/oIntroText/oIntroText.yy",},},
     {"id":{"name":"intro_scream","path":"rooms/intro_scream/intro_scream.yy",},},
