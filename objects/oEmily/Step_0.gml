@@ -15,6 +15,5 @@ if keyboard_check(vk_right){
 if keyboard_check(vk_anykey){
 	sprite_index = s_run_emily
 }else{
-
 	sprite_index = s_idle_emily
 }
